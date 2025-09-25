@@ -236,4 +236,6 @@ This query performs customer segmentation using two distribution functions. NTIL
 
 
 ## References
-[Setting up PL/SQL Environment Macos](https://www.youtube.com/watch?v=uxvoMhkKUPE)
+- [Setting up PL/SQL Environment Macos](https://www.youtube.com/watch?v=uxvoMhkKUPE)
+- [Introduction to PL/SQL](https://oracle-base.com/articles/misc/introduction-to-plsql)
+- [Window Function Concepts and Syntax](https://mode.com/sql-tutorial/sql-window-functions)
