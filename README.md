@@ -238,6 +238,16 @@ This query performs customer segmentation using two distribution functions. NTIL
 I certify that the work submitted for this assignment is my own, and it reflects my sincere effort to work diligently. Thank you sir!
 
 ## References
+All sources were properly cited. Implementations and analysis represent original work. No AI- generated content was copied without attribution or adaptation.
+
 - [Setting up PL/SQL Environment Macos](https://www.youtube.com/watch?v=uxvoMhkKUPE)
+- [PL/SQL Enviroment Setup](https://o7planning.org/10255/install-pl-sql-developer-on-windows)
 - [Introduction to PL/SQL](https://oracle-base.com/articles/misc/introduction-to-plsql)
 - [Window Function Concepts and Syntax](https://mode.com/sql-tutorial/sql-window-functions)
+- [lkouniv University PL/SQL Paper](https://www.lkouniv.ac.in/site/writereaddata/siteContent/202003291621085101sanjeev_rdbms_unit-III_pl-sql_bba_ms_4_sem.pdf)
+- [PL/SQL Overview](https://www.mygreatlearning.com/plsql/tutorials)
+- [Advantages of PL\SQL](https://www.mygreatlearning.com/plsql/tutorials/advantages-of-pl-sql)
+- [Introduction to Aggregate Functions](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/Aggregate-Functions.html)
+- [SQL Window Function Overview](https://learnsql.com/blog/window-functions/)
+- [SQL For Analysis and Reporting](https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/sql-analysis-reporting-data-warehouses.html#GUID-20EFBF1E-F79D-4E4A-906C-6E496EECA684)
+- [Brainstorming ideas, and explaining complex topics in Pl/SQL](gemini.google.com)
