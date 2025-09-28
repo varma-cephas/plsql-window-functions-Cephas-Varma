@@ -251,9 +251,6 @@ This query performs customer segmentation using two distribution functions. NTIL
 
 - Marketing Action: Offering a small discount to identified customers who purchased frequently is going improve customer retention.
 
-
-I certify that the work submitted for this assignment is my own, and it reflects my sincere effort to work diligently. Thank you sir!
-
 ## References and Integrity Statement
 All sources were properly cited. Implementations and analysis represent original work. No AI- generated content was copied without attribution or adaptation.
 
@@ -270,3 +267,4 @@ All sources were properly cited. Implementations and analysis represent original
 - [Brainstorming ideas, and explaining complex topics in Pl/SQL](gemini.google.com)
 
 #### Integrity Statement
+I certify that the work submitted for this assignment is my own, and it reflects my sincere effort to work diligently. Thank you sir!
