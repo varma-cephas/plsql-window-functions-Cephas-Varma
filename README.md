@@ -251,10 +251,10 @@ This query performs customer segmentation using two distribution functions. NTIL
 
 - Marketing Action: Offering a small discount to identified customers who purchased frequently is going improve customer retention.
 
-## Integrity Statement
+
 I certify that the work submitted for this assignment is my own, and it reflects my sincere effort to work diligently. Thank you sir!
 
-## References
+## References and Integrity Statement
 All sources were properly cited. Implementations and analysis represent original work. No AI- generated content was copied without attribution or adaptation.
 
 - [Setting up PL/SQL Environment Macos](https://www.youtube.com/watch?v=uxvoMhkKUPE)
@@ -268,3 +268,5 @@ All sources were properly cited. Implementations and analysis represent original
 - [SQL Window Function Overview](https://learnsql.com/blog/window-functions/)
 - [SQL For Analysis and Reporting](https://docs.oracle.com/en/database/oracle/oracle-database/19/dwhsg/sql-analysis-reporting-data-warehouses.html#GUID-20EFBF1E-F79D-4E4A-906C-6E496EECA684)
 - [Brainstorming ideas, and explaining complex topics in Pl/SQL](gemini.google.com)
+
+#### Integrity Statement
