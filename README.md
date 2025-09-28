@@ -234,6 +234,8 @@ ORDER BY total_items_bought DESC;
 ##### Interpretation 
 This query performs customer segmentation using two distribution functions. NTILE(4) divides all customers into four equally-sized tiers, with customers who bought the most items falling into the top Quartile 1, revealing the percentage of customers who purchased the same or fewer total items.
 
+## Integrity Statement
+I certify that the work submitted for this assignment is my own, and it reflects my sincere effort to work diligently. Thank you sir!
 
 ## References
 - [Setting up PL/SQL Environment Macos](https://www.youtube.com/watch?v=uxvoMhkKUPE)
